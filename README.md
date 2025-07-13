@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaybka" alt="shaybka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adem" target="blank"><img src="https://img.shields.io/twitter/follow/adem?logo=twitter&style=for-the-badge" alt="adem" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/feed/" target="blank"><img src="https://img.shields.io/twitter/follow/adem?logo=twitter&style=for-the-badge" alt="adem" /></a> </p>
 
 
 - 🌱 I’m currently learning *Flutter, Kotlin, Swift*
