@@ -6,14 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaybka" alt="shaybka" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/feed/" target="blank"><img src="https://img.shields.io/twitter/follow/adem?logo=twitter&style=for-the-badge" alt="adem" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/feed/" target="blank"><img src="https://img.shields.io/twitter/follow/adem?logo=twitter&style=for-the-badge" alt="Abdimajiid" /></a> </p>
 
 
 - 🌱 I’m currently learning *Flutter, Kotlin, Swift*
 
 - 💬 Ask me about *Flutter, Dart, Kotlin, Swift, React, PHP, JavaScript, Next.js*
 
-- 📫 How to reach me *abdimajiid@gmail.com*
+- 📫 How to reach me *abdimajiidabdullahi88@gmail.com*
 
 - ⚡ Fun fact *"Code is like humor. When you have to explain it, it’s bad."*
 
